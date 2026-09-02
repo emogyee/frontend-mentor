@@ -1,0 +1,29 @@
+body{
+    overflow-x: hidden;
+}
+.line{
+    margin-top: 70px;
+}
+#h{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color:#f90 ;
+    width: 300px;
+    
+    padding: 10px;
+}
+.c{
+    border: 2x solid #f90;
+    text-align: center;
+    border-width:70px ;
+}
+.class{
+    display: flex;
+    margin-left: 20px;
+}
+#p{
+    padding: 70px;
+
+}
+
+
